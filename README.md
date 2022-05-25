@@ -3,8 +3,8 @@
 The Brain-Machine Interface Systems Lab (BMISLAB) is a team of researchers led by José María Azorín. Our work focuses on human-machine interaction through brain control in order to improve human capabilities in neural rehabilitation. This repository is an open source signal processing environment for electroencephalography (EEG) signals running on Matlab. This folder contains original Matlab functions from the BMISLAB that have been adapted to the context of the EUROBENCH project, REKINE.
 
 ## Sub-directories
-/ReadFiles - Folder from which the EEG data will be read to compute the motor imagery and attention index
-/Results - Folder from which the index and all the results generated will be stored
+- /ReadFiles - Folder from which the EEG data will be read to compute the motor imagery and attention index
+- /Results - Folder from which the index and all the results generated will be stored
 
 ## To use DECODED code:
 1. Start Matlab
